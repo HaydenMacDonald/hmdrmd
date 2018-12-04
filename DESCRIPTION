@@ -10,6 +10,7 @@ Authors@R:
 Description: This package contains essential R Markdown
     templates for data analysis
 License: MIT + file LICENSE
+Encoding: UTF-8
 Depends: 
     R (>= 3.1.0)
 Imports: 
@@ -22,4 +23,3 @@ Imports:
     tidyr
 LazyData: true
 RoxygenNote: 6.1.1
-
