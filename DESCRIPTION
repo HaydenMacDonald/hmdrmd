@@ -9,6 +9,7 @@ Authors@R:
            email = "hayden.macdonald.8778@gmail.com")
 Description: This package contains essential R Markdown
     templates for data analysis
+License: MIT + file LICENSE
 Depends: 
     R (>= 3.1.0)
 Imports: 
@@ -19,4 +20,6 @@ Imports:
     readr,
     rmarkdown,
     tidyr
+LazyData: true
 RoxygenNote: 6.1.1
+

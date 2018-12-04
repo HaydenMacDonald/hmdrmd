@@ -1,4 +1,4 @@
-## HMDRMD
+# HMDRMD
 
 This is a collection of R Markdown templates created for data analysis projects.
 
