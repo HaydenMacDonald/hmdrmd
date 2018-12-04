@@ -1,0 +1,57 @@
+---
+title: "Untitled"
+author: "Hayden MacDonald"
+date: "20XX-XX-XX"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+library(formatR)
+library(knitr)
+knitr::opts_chunk$set(echo = TRUE)
+opts_chunk$set(echo = TRUE)
+opts_chunk$set(tidy.opts=list(width.cutoff=50),tidy=TRUE)
+```
+
+## Packages
+
+```{r packages}
+library(readr)
+library(tidyr)
+library(dplyr)
+library(ggplot2)
+```
+
+---
+
+## Import
+
+```{r import, message = FALSE}
+
+```
+
+---
+
+## Wrangle
+
+```{r wrangle}
+
+```
+
+---
+
+## Visualization
+
+```{r visualization}
+
+```
+
+---
+
+## Export
+
+```{r export}
+
+```
+
+
