@@ -1,8 +1,11 @@
 ---
 title: ""
 author: ""
-date: "20XX-XX-XX"
-output: pdf_document
+date: "`r Sys.Date()`"
+output: 
+  pdf_document:
+    includes:
+      in_header: header.tex
 ---
 
 ```{r setup, include=FALSE}
@@ -22,6 +25,7 @@ library(dplyr)
 library(ggplot2)
 ```
 
+***
 # Identification of the Subject
 
 ## 1. Read the first and last sections of the case.  
@@ -43,8 +47,8 @@ What does the main character need to do?
 **What is the major uncertainty?**  
   
 
-# Criteria Selection
-
+***
+#Criteria Selection
 
 ## 4. What do you need to know to accomplish what the main character has to do or to resolve the major uncertainty?  
 
@@ -60,6 +64,7 @@ List the things you need to know about the situation (don't worry about being wr
 - 
 - 
 
+***
 # Criteria-Based Analysis
 
 ## 6. You're ready for a deep dive.  
@@ -68,13 +73,15 @@ Carefully read and analyze the information you've identified that is **relevant*
 As you proceed in your analysis, ask, "How does what I'm learning help me understand the main issue?"  
 
 
+***
 # Overall Evaluation  
 
 ## 7. Your ultimate goal is to arrive at a position or conclusion about the case's main issue, backed by evidence from the case.  
 
 Remember, there are usually no objectively right answers to a case. The best answer is the one with the strongest evidence backing it.  
+  
 
-
+***
 # Identification of Contingencies
   
 
@@ -83,6 +90,7 @@ Remember, there are usually no objectively right answers to a case. The best ans
 Contigencies should not prevent you from taking a definitive position, but should call out a legitimate possibility.   
 
 
+***
 # Recommended Actions
 
 ## 9. What actions does your position support or require?  
