@@ -15,7 +15,7 @@ opts_chunk$set(tidy.opts=list(width.cutoff=50),tidy=TRUE)
 
 ## Packages
 
-```{r packages}
+```{r packages, message=FALSE}
 library(readr)
 library(tidyr)
 library(dplyr)
@@ -50,12 +50,12 @@ What does the main character need to do?
 ---
 
 ### 4. What do you need to know to accomplish what the main character has to do or to resolve the major uncertainty?  
-
+  
 List the things you need to know about the situation:  
-- 
-- 
-- 
-
+-   
+-   
+-   
+  
 (Don't worry about being wrong)  
 
 ### 5. Go through the case, skim sections, and/or mark places where you find information that corresponds to the list above.  

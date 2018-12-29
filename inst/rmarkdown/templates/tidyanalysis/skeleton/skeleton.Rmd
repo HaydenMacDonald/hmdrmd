@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "Hayden MacDonald"
+title: ""
+author: ""
 date: "20XX-XX-XX"
 output: pdf_document
 ---
@@ -15,7 +15,7 @@ opts_chunk$set(tidy.opts=list(width.cutoff=50),tidy=TRUE)
 
 ## Packages
 
-```{r packages}
+```{r packages, message=FALSE}
 library(readr)
 library(tidyr)
 library(dplyr)
