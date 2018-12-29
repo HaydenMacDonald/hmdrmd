@@ -1,0 +1,98 @@
+---
+title: ""
+author: ""
+date: "20XX-XX-XX"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+library(formatR)
+library(knitr)
+knitr::opts_chunk$set(echo = TRUE)
+opts_chunk$set(echo = TRUE)
+opts_chunk$set(tidy.opts=list(width.cutoff=50),tidy=TRUE)
+```
+
+## Packages
+
+```{r packages}
+library(readr)
+library(tidyr)
+library(dplyr)
+library(ggplot2)
+```
+
+---
+## Identification of the Subject
+---
+
+### 1. Read the first and last sections of the case.  
+
+What do they tell you abou the core scenario?  
+  
+
+### 2. Take a quick look at the other sections and the exhibits to determine what information the case contains.  
+  
+
+### 3. Stop! Now is the time to think rather than read.  
+
+**What is the core scenario of the case?**  
+  
+
+What does the main character need to do?  
+  
+
+**What is the major uncertainty?**  
+  
+
+---
+## Criteria Selection
+---
+
+### 4. What do you need to know to accomplish what the main character has to do or to resolve the major uncertainty?  
+
+List the things you need to know about the situation:  
+- 
+- 
+- 
+
+(Don't worry about being wrong)  
+
+### 5. Go through the case, skim sections, and/or mark places where you find information that corresponds to the list above.  
+
+- 
+- 
+- 
+
+---
+## Criteria-Based Analysis  
+---
+
+### 6. You're ready for a deep dive.  
+
+Carefully read and analyze the information you've identified that is **relevant** to the things you need to know.  
+As you proceed in your analysis, ask, "How does what I'm learning help me understand the main issue?"  
+  
+---
+## Overall Evaluation  
+---
+
+### 7. Your ultimate goal is to arrive at a position or conclusion about the case's main issue, backed by evidence from the case. Remember, there are usually no objectively right answers to a case. The best answer is the one with the strongest evidence backing it.  
+  
+
+---
+## Identification of Contingencies  
+---
+
+### 8. Consider major contingencies that may have a significant impact on your position. Contigencies should not prevent you from taking a definitive position, but should call out a legitimate possibility.   
+
+---
+## Recommended Actions  
+---
+
+### 9. What actions does your position support or require?  
+
+Consider your analysis and write down thoughts about an action plan with short term and long term action items.  
+  
+
+
