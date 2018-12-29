@@ -10,7 +10,7 @@ install.packages("devtools")
 devtools::install_github("HaydenMacDonald/hmdrmd")
 ```
 
-## Templates
+# Templates
 
 ### Tidy Analysis
 
@@ -23,3 +23,14 @@ The document is broken into sections, including:
 - Data Visualization
 - Visualization export  
 
+### Case Study Analysis
+
+R Markdown template for case study analyses. Outputs a pdf report with settings adjusted in a setup chunk.
+
+The document contains 9 essential questions for case study analysis, separated into 6 sections:
+- Identification of the Subject
+- Criteria Selection
+- Criteria-Based Analysis
+- Overall Evaluation
+- Identification of Contingencies
+- Recommended Actions  
