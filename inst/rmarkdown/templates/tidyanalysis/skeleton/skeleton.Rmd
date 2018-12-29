@@ -15,7 +15,7 @@ opts_chunk$set(tidy.opts=list(width.cutoff=50),tidy=TRUE)
 
 ## Packages
 
-```{r packages, message=FALSE}
+```{r packages, message=FALSE, warning=FALSE}
 library(readr)
 library(tidyr)
 library(dplyr)
