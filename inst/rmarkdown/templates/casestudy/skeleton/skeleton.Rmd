@@ -4,16 +4,20 @@ author: ""
 date: "`r Sys.Date()`"
 output: 
   pdf_document:
+    latex_engine: xelatex
     includes:
       in_header: header.tex
+    highlight: kate
+mainfont: CMU Serif Roman
+monofont: Fira Code Medium
 ---
 
-```{r setup, include=FALSE}
+```{r setup, include = FALSE}
 library(formatR)
 library(knitr)
 knitr::opts_chunk$set(echo = TRUE)
-opts_chunk$set(echo = TRUE)
 opts_chunk$set(tidy.opts=list(width.cutoff=50),tidy=TRUE)
+knitr::knit_hooks$set(plot = knitr::hook_plot_tex)
 ```
 
 ## Packages
@@ -33,19 +37,20 @@ library(ggplot2)
 What do they tell you abou the core scenario?  
   
 
-## 2. Take a quick look at the other sections and the exhibits to determine what information the case contains.  
+## 2. Take a quick look at the other sections and exhibits to determine what information the case contains.  
   
 
 ## 3. Stop! Now is the time to think rather than read.  
 
-**What is the core scenario of the case?**  
+What is the **core scenario** of the case?  
   
 
 What does the main character need to do?  
   
 
-**What is the major uncertainty?**  
+What is the **major uncertainty**?  
   
+&nbsp;
 
 ***
 #Criteria Selection
@@ -63,6 +68,8 @@ List the things you need to know about the situation (don't worry about being wr
 - 
 - 
 - 
+  
+&nbsp;
 
 ***
 # Criteria-Based Analysis
@@ -70,8 +77,11 @@ List the things you need to know about the situation (don't worry about being wr
 ## 6. You're ready for a deep dive.  
 
 Carefully read and analyze the information you've identified that is **relevant** to the things you need to know.  
+
 As you proceed in your analysis, ask, "How does what I'm learning help me understand the main issue?"  
 
+  
+&nbsp;
 
 ***
 # Overall Evaluation  
@@ -79,7 +89,9 @@ As you proceed in your analysis, ask, "How does what I'm learning help me unders
 ## 7. Your ultimate goal is to arrive at a position or conclusion about the case's main issue, backed by evidence from the case.  
 
 Remember, there are usually no objectively right answers to a case. The best answer is the one with the strongest evidence backing it.  
+
   
+&nbsp;
 
 ***
 # Identification of Contingencies
@@ -89,6 +101,8 @@ Remember, there are usually no objectively right answers to a case. The best ans
 
 Contigencies should not prevent you from taking a definitive position, but should call out a legitimate possibility.   
 
+  
+&nbsp;
 
 ***
 # Recommended Actions

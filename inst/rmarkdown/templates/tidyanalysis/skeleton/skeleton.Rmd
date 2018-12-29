@@ -2,14 +2,20 @@
 title: ""
 author: ""
 date: "`r Sys.Date()`"
-output: pdf_document
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    includes:
+      in_header: header.tex
+    highlight: kate
+mainfont: CMU Serif Roman
+monofont: Fira Code Medium
 ---
 
 ```{r setup, include=FALSE}
 library(formatR)
 library(knitr)
 knitr::opts_chunk$set(echo = TRUE)
-opts_chunk$set(echo = TRUE)
 opts_chunk$set(tidy.opts=list(width.cutoff=50),tidy=TRUE)
 ```
 
