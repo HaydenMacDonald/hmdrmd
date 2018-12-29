@@ -1,6 +1,6 @@
 ---
-title: ""
-author: ""
+title: "title"
+author: "author"
 date: "`r Sys.Date()`"
 output: 
   pdf_document:
