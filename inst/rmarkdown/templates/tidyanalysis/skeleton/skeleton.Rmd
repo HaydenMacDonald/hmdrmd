@@ -17,6 +17,7 @@ library(formatR)
 library(knitr)
 knitr::opts_chunk$set(echo = TRUE)
 opts_chunk$set(tidy.opts=list(width.cutoff=50),tidy=TRUE)
+knitr::knit_hooks$set(plot = knitr::hook_plot_tex)
 ```
 
 ## Packages
