@@ -48,6 +48,14 @@ library(ggplot2)
 
 ---
 
+## Model
+
+```{r model}
+
+```
+
+---
+
 ## Visualization
 
 ```{r visualization}
@@ -56,9 +64,9 @@ library(ggplot2)
 
 ---
 
-## Export
+## Communicate / Export
 
-```{r export}
+```{r communicate / export}
 
 ```
 

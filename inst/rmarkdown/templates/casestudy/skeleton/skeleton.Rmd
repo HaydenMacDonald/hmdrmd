@@ -69,7 +69,7 @@ List the things you need to know (don't worry about being wrong):
 - 
 - 
 
-## 5. Go through the case, skim sections, and/or mark places where you find information that corresponds to the list above.  
+## 5. Skim the case and mark sections where you could find information corresponding to the criteria above.  
 
 - 
 - 
@@ -80,11 +80,9 @@ List the things you need to know (don't worry about being wrong):
 ***
 # Criteria-Based Analysis
 
-## 6. We're ready for a deep dive.  
+## 6. Carefully read and analyze the information you've identified as **relevant** to the things you need to know.  
 
-Carefully read and analyze the information you've identified as **relevant** to the things you need to know.  
-
-As you proceed in your analysis ask, "How does what I'm learning help me understand the main issue?"  
+As you read the case, ask, "Does this content help me understand the core scenario?"  
 
   
 &nbsp;
@@ -92,7 +90,11 @@ As you proceed in your analysis ask, "How does what I'm learning help me underst
 ***
 # Overall Evaluation  
 
-## 7. Your ultimate goal is to arrive at a position or conclusion about the case's main issue, backed by evidence from the case.  
+## 7. Compare the information from the case against the criteria you have selected.
+
+Consider the weights of the criteria. Not all criteria may be equal in your evaluation.  
+
+Arrive at a position or conclusion about the case's main issue, backed by evidence from the case.  
 
 Remember, there are usually no objectively right answers to a case. The best answer is the one with the strongest evidence backing it.  
 
@@ -103,19 +105,19 @@ Remember, there are usually no objectively right answers to a case. The best ans
 # Identification of Contingencies
   
 
-## 8. Consider major contingencies that may have a significant impact on your position.  
+## 8. Consider major assumptions and conditions that may have a significant impact on your position.  
 
-Contigencies should not prevent you from taking a definitive position, but should call out a legitimate possibility.   
-
+These assumptions and conditions should not prevent you from taking a definitive position, but should bring legitimate possibilities to your attention.   
+  
   
 &nbsp;
 
 ***
-# Recommended Actions
+# Recommended an Action Plan
 
-## 9. What actions does your position support or require?  
+## 9. What actions does your position require?  
 
-Consider your analysis and write down thoughts about an action plan with short term and long term action items.  
+Consider your analysis and write an action plan with short-term and long-term action items.  
   
 
 
