@@ -1,5 +1,5 @@
 {
-    "path" : "~/hmdrmd",
+    "path" : "~/hmdrmd/inst/rmarkdown/templates/tidyanalysis/skeleton",
     "sortOrder" : [
         {
             "ascending" : true,
