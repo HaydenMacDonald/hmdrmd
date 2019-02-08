@@ -24,28 +24,34 @@ knitr::knit_hooks$set(plot = knitr::hook_plot_tex)
 
 ```{r packages, message=FALSE, warning=FALSE}
 library(readr)
+library(readxl)
 library(tidyr)
 library(dplyr)
 library(ggplot2)
 ```
 
 ***
-# Identification of the Subject
+# Identification of Role and Scenario
 
 ## 1. Read the first and last sections of the case.  
 
-What do they tell you abou the core scenario?  
+What is your first impression of the case?  
   
 
-## 2. Take a quick look at the other sections and exhibits to determine what information the case contains.  
+## 2. Scan over the exhibits and major section headings.  
   
 
-## 3. Stop! Now is the time to think rather than read.  
+## 3. Take a moment to reflect rather than read.  
 
 What is the **core scenario** of the case?  
   
 
-What does the main character need to do?  
+What does the we need to do?  
+  
+
+- Do we need to make a decision?
+- Do we need to evaluate a situation?
+- Do we need to diagnose a problem?
   
 
 What is the **major uncertainty**?  
@@ -55,9 +61,9 @@ What is the **major uncertainty**?
 ***
 # Criteria Selection
 
-## 4. What do you need to know to accomplish what the main character has to do or to resolve the major uncertainty?  
+## 4. What do we need to know to resolve the major uncertainty?  
 
-List the things you need to know about the situation (don't worry about being wrong):
+List the things you need to know (don't worry about being wrong):
 
 - 
 - 
@@ -74,11 +80,11 @@ List the things you need to know about the situation (don't worry about being wr
 ***
 # Criteria-Based Analysis
 
-## 6. You're ready for a deep dive.  
+## 6. We're ready for a deep dive.  
 
-Carefully read and analyze the information you've identified that is **relevant** to the things you need to know.  
+Carefully read and analyze the information you've identified as **relevant** to the things you need to know.  
 
-As you proceed in your analysis, ask, "How does what I'm learning help me understand the main issue?"  
+As you proceed in your analysis ask, "How does what I'm learning help me understand the main issue?"  
 
   
 &nbsp;

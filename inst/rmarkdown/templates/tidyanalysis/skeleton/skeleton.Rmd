@@ -24,6 +24,7 @@ knitr::knit_hooks$set(plot = knitr::hook_plot_tex)
 
 ```{r packages, message=FALSE, warning=FALSE}
 library(readr)
+library(readxl)
 library(tidyr)
 library(dplyr)
 library(ggplot2)
