@@ -8,7 +8,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "hayden.macdonald.8778@gmail.com")
 Description: This package contains essential R Markdown
-    templates for data analysis
+    templates for case study and data analysis
 License: MIT + file LICENSE
 Encoding: UTF-8
 Depends: 
@@ -20,6 +20,8 @@ Imports:
     knitr,
     readr,
     rmarkdown,
-    tidyr
+    tidyr,
+    tint,
+    tufte
 LazyData: true
 RoxygenNote: 6.1.1

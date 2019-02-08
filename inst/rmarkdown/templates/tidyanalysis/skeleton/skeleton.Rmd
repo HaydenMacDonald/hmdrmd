@@ -1,21 +1,27 @@
 ---
-title: "Untitled"
-author: "Hayden MacDonald"
-date: "20XX-XX-XX"
-output: pdf_document
+title: "title"
+author: "author"
+date: "`r Sys.Date()`"
+output: 
+  pdf_document:
+    latex_engine: xelatex
+    includes:
+      in_header: header.tex
+    highlight: kate
+mainfont: CMU Serif Roman
+monofont: Fira Code Medium
 ---
 
 ```{r setup, include=FALSE}
 library(formatR)
 library(knitr)
 knitr::opts_chunk$set(echo = TRUE)
-opts_chunk$set(echo = TRUE)
 opts_chunk$set(tidy.opts=list(width.cutoff=50),tidy=TRUE)
 ```
 
 ## Packages
 
-```{r packages}
+```{r packages, message=FALSE, warning=FALSE}
 library(readr)
 library(tidyr)
 library(dplyr)

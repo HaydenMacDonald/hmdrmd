@@ -2,13 +2,35 @@
 
 This is a collection of R Markdown templates created for data analysis projects.
 
-## HMDRMD 1.0
+## Installation
 
-This is the most basic template, which outputs a pdf with settings adjusted in a setup chunk.
+```{r}
+install.packages("devtools")
+
+devtools::install_github("HaydenMacDonald/hmdrmd")
+```
+
+# Templates
+
+### Tidy Analysis
+
+Basic template for tidy data analysis. Outputs a pdf report with settings adjusted in a setup chunk.
 
 The document is broken into sections, including:  
 - Packages chunk
-- Data Import section
-- Data Wrangling section
-- Data Visualization section
-- Visualization export section
+- Data Import
+- Data Wrangling
+- Data Visualization
+- Visualization export  
+
+### Case Study Analysis
+
+R Markdown template for case study analyses. Outputs a pdf report with settings adjusted in a setup chunk.
+
+The document contains 9 essential questions for case study analysis, separated into 6 sections:
+- Identification of the Subject
+- Criteria Selection
+- Criteria-Based Analysis
+- Overall Evaluation
+- Identification of Contingencies
+- Recommended Actions  
