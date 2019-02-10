@@ -46,7 +46,7 @@ What is your first impression of the case?
 What is the **core scenario** of the case?  
   
 
-What does the we need to do?  
+What do we need to do?  
   
 
 - Do we need to make a decision?
