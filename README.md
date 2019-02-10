@@ -34,4 +34,4 @@ The document contains 9 essential questions for case study analysis, separated i
 - Criteria-Based Analysis
 - Overall Evaluation
 - Identification of Contingencies
-- Recommended an Action Plan 
+- Recommend an Action Plan 

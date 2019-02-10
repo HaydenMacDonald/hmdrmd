@@ -35,10 +35,10 @@ library(ggplot2)
 
 ## 1. Read the first and last sections of the case.  
 
-What is your first impression of the case?  
+What is your first impression?  
   
 
-## 2. Scan over the exhibits and major section headings.  
+## 2. Skim over the exhibits and major section headings.  
   
 
 ## 3. Take a moment to reflect rather than read.  
@@ -63,13 +63,13 @@ What is the **major uncertainty**?
 
 ## 4. What do we need to know to resolve the major uncertainty?  
 
-List the things you need to know (don't worry about being wrong):
+List the things you need to know:
 
 - 
 - 
 - 
 
-## 5. Skim the case and mark sections where you could find information corresponding to the criteria above.  
+## 5. Skim the case again, marking sections where useful information could be found.  
 
 - 
 - 
@@ -80,7 +80,7 @@ List the things you need to know (don't worry about being wrong):
 ***
 # Criteria-Based Analysis
 
-## 6. Carefully read and analyze the information you've identified as **relevant** to the things you need to know.  
+## 6. Carefully read the case. 
 
 As you read the case, ask, "Does this content help me understand the core scenario?"  
 
@@ -90,34 +90,34 @@ As you read the case, ask, "Does this content help me understand the core scenar
 ***
 # Overall Evaluation  
 
-## 7. Compare the information from the case against the criteria you have selected.
+## 7. Compare the **relevant** information from the case against the criteria you have selected.
 
 Consider the weights of the criteria. Not all criteria may be equal in your evaluation.  
 
-Arrive at a position or conclusion about the case's main issue, backed by evidence from the case.  
+Arrive at a position or conclusion about the case's main issue.  
 
-Remember, there are usually no objectively right answers to a case. The best answer is the one with the strongest evidence backing it.  
+The best solution to the major uncertainty is the one with the strongest evidence.  
 
   
 &nbsp;
 
 ***
-# Identification of Contingencies
+# Identification of other uncertainties
   
 
-## 8. Consider major assumptions and conditions that may have a significant impact on your position.  
+## 8. Consider major assumptions and conditions that may have a substantial impact on your position.  
 
-These assumptions and conditions should not prevent you from taking a definitive position, but should bring legitimate possibilities to your attention.   
+These assumptions and conditions should not prevent you from taking stance on the case, but should bring attention to other possible outcomes.   
   
   
 &nbsp;
 
 ***
-# Recommended an Action Plan
+# Recommend an Action Plan
 
-## 9. What actions does your position require?  
+## 9. Given your position, what should we do?  
 
-Consider your analysis and write an action plan with short-term and long-term action items.  
+Write an action plan with short-term and long-term action items.  
   
 
 
