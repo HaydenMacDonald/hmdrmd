@@ -31,7 +31,7 @@ library(ggplot2)
 ```
 
 ***
-# Identification of Role and Scenario
+# Role and Scenario
 
 ## 1. Read the first and last sections of the case.  
 
@@ -41,7 +41,7 @@ What is your first impression?
 ## 2. Skim over the exhibits and major section headings.  
   
 
-## 3. Take a moment to reflect rather than read.  
+## 3. Take a moment to reflect.  
 
 What is the **core scenario** of the case?  
   
@@ -59,7 +59,7 @@ What is the **major uncertainty**?
 &nbsp;
 
 ***
-# Criteria Selection
+# Criteria
 
 ## 4. What do we need to know to resolve the major uncertainty?  
 
@@ -78,23 +78,23 @@ List the things you need to know:
 &nbsp;
 
 ***
-# Criteria-Based Analysis
+# Analysis
 
 ## 6. Carefully read the case. 
 
-As you read the case, ask, "Does this content help me understand the core scenario?"  
+As you read sections in the case, ask, "Is this content relevant to the core scenario?"  
 
   
 &nbsp;
 
 ***
-# Overall Evaluation  
+# Evaluation  
 
 ## 7. Compare the **relevant** information from the case against the criteria you have selected.
 
 Consider the weights of the criteria. Not all criteria may be equal in your evaluation.  
 
-Arrive at a position or conclusion about the case's main issue.  
+Use tools, analyses, or frameworks to arrive at a position or conclusion about the major uncertainty.  
 
 The best solution to the major uncertainty is the one with the strongest evidence.  
 
@@ -102,10 +102,10 @@ The best solution to the major uncertainty is the one with the strongest evidenc
 &nbsp;
 
 ***
-# Identification of other uncertainties
+# Uncertainties
   
 
-## 8. Consider major assumptions and conditions that may have a substantial impact on your position.  
+## 8. Consider assumptions and conditions that may have a substantial impact on your position.  
 
 These assumptions and conditions should not prevent you from taking stance on the case, but should bring attention to other possible outcomes.   
   
@@ -113,7 +113,7 @@ These assumptions and conditions should not prevent you from taking stance on th
 &nbsp;
 
 ***
-# Recommend an Action Plan
+# Action Plan
 
 ## 9. Given your position, what should we do?  
 

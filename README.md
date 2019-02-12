@@ -26,12 +26,17 @@ The document is broken into sections, including:
 
 ### Case Study Analysis
 
-R Markdown template for case study analyses. Outputs a pdf report with settings adjusted in a setup chunk.
+R Markdown template for case study analyses based on William Ellet's case study guide in [*The Case Study Handbook, Revised Edition: A Student's Guide* (2018)](https://hbr.org/product/the-case-study-handbook-revised-edition-a-student-s-guide/10208E-KND-ENG).  
 
-The document contains 9 essential questions for case study analysis, separated into 6 sections:
-- Identification of Role and Scenario
-- Criteria Selection
-- Criteria-Based Analysis
-- Overall Evaluation
-- Identification of Contingencies
-- Recommend an Action Plan 
+This R Markdown file outputs a pdf report with settings adjusted in a setup chunk.  
+
+The document contains 9 essential questions for case study analysis, separated into 6 sections:  
+- Role and Scenario
+- Criteria
+- Analysis
+- Evaluation
+- Uncertainties
+- Action Plan 
+
+Ellet, W. (2018). *The case study handbook, revised edition: A student's guide*. Boston, Massachussets, Harvard Business Review Press.
+
