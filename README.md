@@ -14,7 +14,7 @@ devtools::install_github("HaydenMacDonald/hmdrmd")
 
 ### Tidy Analysis
 
-Basic template for tidy data analysis. Outputs a pdf report with settings adjusted in a setup chunk.
+Basic template for tidy data analysis for educational or professional use. This R Markdown file outputs a pdf for reporting and communication of findings.
 
 The document is broken into sections, including:  
 - Packages
@@ -39,4 +39,3 @@ The document contains 9 essential questions for case study analysis, separated i
 - Action Plan 
 
 <a name="myfootnote1">1</a>: Ellet, W. (2018). *The case study handbook, revised edition: A student's guide*. Boston, Massachussets, Harvard Business Review Press.
-
