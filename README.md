@@ -10,7 +10,7 @@ install.packages("devtools")
 devtools::install_github("HaydenMacDonald/hmdrmd")
 ```
 
-# Templates
+## Templates
 
 ### Tidy Analysis
 
@@ -37,5 +37,13 @@ The document contains 9 essential questions for case study analysis, separated i
 - Evaluation
 - Uncertainties
 - Action Plan 
+
+## Help
+
+Submit issues here on GitHub.  
+
+If you are interested in extending the functionality of this package, fork this repository, make your changes and submit them as a pull request.  
+
+## Footnotes
 
 <a name="myfootnote1">1</a>: Ellet, W. (2018). *The case study handbook, revised edition: A student's guide*. Boston, Massachussets, Harvard Business Review Press.
