@@ -26,7 +26,7 @@ The document is broken into sections, including:
 
 ### Case Study Analysis
 
-R Markdown template for case study analyses based on William Ellet's case study guide in [*The Case Study Handbook, Revised Edition: A Student's Guide* (2018)](https://hbr.org/product/the-case-study-handbook-revised-edition-a-student-s-guide/10208E-KND-ENG).  
+R Markdown template for case study analyses based on William Ellet's case study guide in [*The Case Study Handbook, Revised Edition: A Student's Guide* (2018)](https://hbr.org/product/the-case-study-handbook-revised-edition-a-student-s-guide/10208E-KND-ENG)[^1].  
 
 This R Markdown file outputs a pdf report with settings adjusted in a setup chunk.  
 
@@ -38,5 +38,5 @@ The document contains 9 essential questions for case study analysis, separated i
 - Uncertainties
 - Action Plan 
 
-Ellet, W. (2018). *The case study handbook, revised edition: A student's guide*. Boston, Massachussets, Harvard Business Review Press.
+[^1]: Ellet, W. (2018). *The case study handbook, revised edition: A student's guide*. Boston, Massachussets, Harvard Business Review Press.
 
