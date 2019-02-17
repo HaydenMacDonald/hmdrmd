@@ -12,12 +12,11 @@ mainfont: CMU Serif Roman
 monofont: Fira Code Medium
 ---
 
-```{r setup, include = FALSE}
+```{r setup, include=FALSE}
 library(formatR)
 library(knitr)
 knitr::opts_chunk$set(echo = TRUE)
-opts_chunk$set(tidy.opts=list(width.cutoff=50),tidy=TRUE)
-knitr::knit_hooks$set(plot = knitr::hook_plot_tex)
+opts_chunk$set(tidy.opts=list(width.cutoff=80))
 ```
 
 ## Packages
@@ -60,6 +59,8 @@ What do we need to do?
 - Do we need to diagnose a problem?
   
 &nbsp;
+
+\pagebreak
 
 ***
 # Criteria
@@ -105,6 +106,9 @@ The best solution to the major uncertainty is the one with the strongest evidenc
 &nbsp;
 
 ***
+
+\pagebreak
+
 # Uncertainties
   
 

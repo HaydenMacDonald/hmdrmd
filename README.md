@@ -24,6 +24,9 @@ The document is broken into sections, including:
 - Model
 - Communicate / Export 
 
+![](scrnshts/tidy1.PNG)
+![](scrnshts/tidy2.PNG)
+
 ### Case Study Analysis
 
 R Markdown template for case study analyses based on William Ellet's case study guide in <a href="https://hbr.org/product/the-case-study-handbook-revised-edition-a-student-s-guide/10208E-KND-ENG" target = "_blank">*The Case Study Handbook, Revised Edition: A Student's Guide* (2018)</a><sup>[1](#myfootnote1)</sup>. This template is intended to by used by students in educational and research environments involving case analyses.  
@@ -37,6 +40,10 @@ The document contains 9 essential questions for case study analysis, separated i
 - Evaluation
 - Uncertainties
 - Action Plan 
+
+![](scrnshts/case1.PNG)
+![](scrnshts/case2.PNG)
+![](scrnshts/case3.PNG)
 
 ## Help
 
