@@ -11,7 +11,7 @@ output:
 mainfont: CMU Serif Roman
 monofont: Fira Code Medium
 resource_files:
-  - header.tex
+  - resources/header.tex
 ---
 
 ```{r setup, include=FALSE}
