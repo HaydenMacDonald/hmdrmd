@@ -10,6 +10,8 @@ output:
     highlight: kate
 mainfont: CMU Serif Roman
 monofont: Fira Code Medium
+resource_files:
+  - header.tex
 ---
 
 ```{r setup, include=FALSE}

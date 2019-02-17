@@ -1,2 +1,3 @@
 name: Tidy Analysis
 description: R Markdown for tidy data analysis projects, including set-up, packages, import, wrangle, visualize, model, and communicate/export chunks.
+create_dir: false

@@ -1,2 +1,3 @@
 name: Case Study Analysis
 description: R Markdown for case study analysis, including questions to guide case analysis.
+create_dir: false
