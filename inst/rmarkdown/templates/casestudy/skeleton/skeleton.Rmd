@@ -43,18 +43,21 @@ What is your first impression?
 
 ## 3. Take a moment to reflect.  
 
+Who is the main character?  
+
+When is the case taking place?  
+
+Where is the case taking place?  
+
 What is the **core scenario** of the case?  
-  
+
+What is the **major uncertainty**?  
 
 What do we need to do?  
   
-
 - Do we need to make a decision?
 - Do we need to evaluate a situation?
 - Do we need to diagnose a problem?
-  
-
-What is the **major uncertainty**?  
   
 &nbsp;
 
@@ -116,6 +119,10 @@ These assumptions and conditions should not prevent you from taking stance on th
 # Action Plan
 
 ## 9. Given your position, what should we do?  
+
+First, who is the action plan for? Who is our audience?  
+
+What is the final deliverable to our audience?  
 
 Write an action plan with short-term and long-term action items.  
   

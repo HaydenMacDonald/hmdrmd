@@ -20,8 +20,8 @@ The document is broken into sections, including:
 - Packages
 - Import
 - Wrangle
-- Model
 - Visualize
+- Model
 - Communicate / Export 
 
 ### Case Study Analysis
