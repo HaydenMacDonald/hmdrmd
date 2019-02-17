@@ -5,8 +5,6 @@ date: "`r Sys.Date()`"
 output: 
   pdf_document:
     latex_engine: xelatex
-    includes:
-      in_header: header.tex
     highlight: kate
 mainfont: CMU Serif Roman
 monofont: Fira Code Medium
