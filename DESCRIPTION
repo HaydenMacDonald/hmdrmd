@@ -2,20 +2,19 @@ Package: hmdrmd
 Title: A set of R Markdown templates for tidy and case study analyses.
 Version: 0.0.0
 Authors@R: 
-    person(given = "Hayden",
-           family = "MacDonald",
-           role = c("aut", "cre"),
-           email = "hayden.macdonald.8778@gmail.com")
-Description: This package contains essential R Markdown
-    templates for case study and data analysis
+ person(given = "Hayden",
+        family = "MacDonald",
+        role = c("aut", "cre"),
+        email = "hayden.macdonald.8778@gmail.com")
+Description: This package contains essential R Markdown templates for case study and data analysis
 License: MIT + file LICENSE
 Encoding: UTF-8
 Depends: 
-    R (>= 3.1.0)
+ R (>= 3.1.0)
 Imports: 
-    rmarkdown,
-    formatR,
-    knitr,
-    htmltools
+ rmarkdown,
+ formatR,
+ knitr,
+ htmltools
 LazyData: true
 RoxygenNote: 6.1.1
