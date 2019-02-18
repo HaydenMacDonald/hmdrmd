@@ -1,7 +1,7 @@
 Package: hmdrmd
 Title: A set of R Markdown templates for tidy and case study analyses.
 Version: 0.0.0
-Authors@R: 
+Authors@R:
  person(given = "Hayden",
         family = "MacDonald",
         role = c("aut", "cre"),
