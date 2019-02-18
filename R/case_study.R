@@ -15,6 +15,6 @@ case_study <- function(...){
   rmarkdown::output_format(
     base_format = "pdf_document",
     knitr = rmarkdown::knitr_options(opts_chunk = list(tidy.opts=list(width.cutoff=80))),
-    pandoc = pandoc_options(to = "pdf")
+    pandoc = rmarkdown::pandoc_options(to = "pdf")
   )
 }
