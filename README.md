@@ -1,5 +1,7 @@
 # HMDRMD
 
+[![Travis build status](https://travis-ci.org/HaydenMacDonald/hmdrmd.svg?branch=master)](https://travis-ci.org/HaydenMacDonald/hmdrmd)
+
 This is a collection of R Markdown templates created for data analysis project workflows including:
 
 - Tidy Analysis
