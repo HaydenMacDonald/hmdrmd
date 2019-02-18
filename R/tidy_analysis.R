@@ -5,16 +5,16 @@ tidy_analysis <- function(...){
     
   
   # supply files to your custom format
-  rmarkdown::pdf_document(..., 
+  format <- rmarkdown::pdf_document(..., 
                           includes = rmarkdown::includes(in_header = template),
                           latex_engine = "xelatex",
                           highlight = "kate")
   
   
   #Set output format to take knitr options
-  rmarkdown::output_format(
-    base_format = "pdf_document",
-    knitr = rmarkdown::knitr_options(opts_chunk = list(tidy.opts=list(width.cutoff=80))),
-    pandoc = rmarkdown::pandoc_options(to = "pdf")
-  )
+  chunk_options <- rmarkdown::knitr_options(opts_chunk = list(tidy.opts=list(width.cutoff=80)))
+  
+  format$knitr <- chunk_options
+  format$inherits <- 'pdf_document'
+  format
 }
