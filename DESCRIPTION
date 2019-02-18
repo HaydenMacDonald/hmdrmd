@@ -13,13 +13,9 @@ Encoding: UTF-8
 Depends: 
     R (>= 3.1.0)
 Imports: 
-    dplyr,
+    rmarkdown
     formatR,
-    ggplot2,
     knitr,
-    readr,
-    rmarkdown,
-    tidyr,
     tint,
     tufte
 LazyData: true

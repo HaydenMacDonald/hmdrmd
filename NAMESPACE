@@ -1,2 +1,7 @@
 export(tidy_analysis)
 export(case_study)
+import(rmarkdown)
+import(knitr)
+import(tufte)
+import(tint)
+import(formatR)
