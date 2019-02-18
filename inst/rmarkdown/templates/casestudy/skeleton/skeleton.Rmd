@@ -8,13 +8,6 @@ mainfont: CMU Serif Roman
 monofont: Fira Code Medium
 ---
 
-```{r setup, include=FALSE}
-library(formatR)
-library(knitr)
-knitr::opts_chunk$set(echo = TRUE)
-opts_chunk$set(tidy.opts=list(width.cutoff=80))
-```
-
 ## Packages
 
 ```{r packages, message=FALSE, warning=FALSE}
