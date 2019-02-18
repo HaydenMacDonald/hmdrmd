@@ -27,6 +27,8 @@ The document is broken into six sections, including:
 - Model
 - Communicate / Export 
 
+### Example of Tidy Analysis template
+
 ![](scrnshts/tidy1.PNG)
 ![](scrnshts/tidy2.PNG)
 
@@ -43,6 +45,8 @@ The document contains 9 essential questions for case study analysis, separated i
 - Evaluation
 - Uncertainties
 - Action Plan 
+
+### Example of Case Study Analysis template
 
 ![](scrnshts/case1.PNG)
 ![](scrnshts/case2.PNG)
