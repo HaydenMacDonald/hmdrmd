@@ -3,13 +3,9 @@ title: "title"
 author: "author"
 date: "`r Sys.Date()`"
 output: 
-  pdf_document:
-    latex_engine: xelatex
-    highlight: kate
+  hmdrmd::case_study
 mainfont: CMU Serif Roman
 monofont: Fira Code Medium
-resource_files:
-  - resources/header.tex
 ---
 
 ```{r setup, include=FALSE}
