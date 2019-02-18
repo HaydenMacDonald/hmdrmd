@@ -1,6 +1,6 @@
 # HMDRMD
 
-This is a collection of R Markdown templates created for data analysis projects including:
+This is a collection of R Markdown templates created for data analysis project workflows including:
 
 - Tidy Analysis
 - Case Study Analysis
@@ -8,7 +8,7 @@ This is a collection of R Markdown templates created for data analysis projects 
 ## Installation
 
 ```{r}
-install.packages("devtools")
+if (!requireNamespace("devtools")) install.packages("devtools")
 
 devtools::install_github("HaydenMacDonald/hmdrmd")
 ```
@@ -17,9 +17,9 @@ devtools::install_github("HaydenMacDonald/hmdrmd")
 
 ### Tidy Analysis
 
-Basic template for tidy data analysis for educational or professional use. This R Markdown file outputs a pdf for reporting and communication of findings.
+A basic template for tidy data analysis for educational or professional use. This R Markdown file outputs a pdf for reporting results.
 
-The document is broken into sections, including:  
+The document is broken into six sections, including:  
 - Packages
 - Import
 - Wrangle
