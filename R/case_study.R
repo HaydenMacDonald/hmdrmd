@@ -5,7 +5,7 @@ case_study <- function(...){
   
   # supply files to your custom format
   rmarkdown::pdf_document(..., 
-                          includes = includes(in_header = template),
+                          includes = rmarkdown::includes(in_header = template),
                           latex_engine = "xelatex",
                           highlight = "kate")
 }
