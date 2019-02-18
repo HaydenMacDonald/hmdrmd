@@ -1,3 +1,2 @@
-export("case_study")
-export("tidy_analysis")
-
+export(tidy_analysis)
+export(case_study)
