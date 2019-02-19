@@ -14,6 +14,13 @@ if (!requireNamespace("devtools")) install.packages("devtools")
 
 devtools::install_github("HaydenMacDonald/hmdrmd")
 ```
+## Usage
+
+Once installed, you can access these templates in RStudio through New R Markdown > From Template.  
+
+![New R Markdown > From Template](scrnshts/templates.png)
+
+Defaults for pdf output are controlled through the YAML header. The default main font (`mainfont`) and code font (`monofont`) are set to [CMU Serif Roman](https://www.fontsquirrel.com/fonts/computer-modern) and Fira Code Medium ([installation instructions](https://github.com/tonsky/FiraCode)), respectively. Remove or change these options from the YAML header to font output.  
 
 ## Templates
 
