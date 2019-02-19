@@ -16,7 +16,15 @@ devtools::install_github("HaydenMacDonald/hmdrmd")
 ```
 ## Usage
 
-Once installed, you can access these templates in RStudio through New R Markdown > From Template.  
+In order to render pdf documents from R Markdown files, you will require LaTeX. If you have never installed a LaTex distribution, you can do so using [TinyTeX package](https://github.com/yihui/tinytex).  
+
+```{r}
+install.packages("tinytex")
+
+tinytex::install_tinytex()
+```
+
+Once `hmdrmd` and `tinytex` are installed, you can access these templates in RStudio through File > New File > R Markdown... > From Template.  
 
 ![New R Markdown > From Template](scrnshts/templates.png)
 
