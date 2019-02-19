@@ -20,7 +20,7 @@ Once installed, you can access these templates in RStudio through New R Markdown
 
 ![New R Markdown > From Template](scrnshts/templates.png)
 
-Defaults for pdf output are controlled through the YAML header. The default main font (`mainfont`) and code font (`monofont`) are set to <a href="https://www.fontsquirrel.com/fonts/computer-modern" target="_blank">CMU Serif Roman</a> and <a href="https://github.com/tonsky/FiraCode" target="_blank">Fira Code Medium</a>, respectively. Remove or change these options from the YAML header to font output.  
+Defaults for pdf output are controlled through the YAML header. The default main font (`mainfont`) and code font (`monofont`) are set to <a href="https://www.fontsquirrel.com/fonts/computer-modern" target="_blank">CMU Serif Roman</a> and <a href="https://github.com/tonsky/FiraCode" target="_blank">Fira Code Medium</a>, respectively. Remove or change these options from the YAML header to customize your document's font.  
 
 ## Templates
 
