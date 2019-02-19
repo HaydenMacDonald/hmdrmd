@@ -20,7 +20,7 @@ Once installed, you can access these templates in RStudio through New R Markdown
 
 ![New R Markdown > From Template](scrnshts/templates.png)
 
-Defaults for pdf output are controlled through the YAML header. The default main font (`mainfont`) and code font (`monofont`) are set to [CMU Serif Roman](https://www.fontsquirrel.com/fonts/computer-modern) and Fira Code Medium ([installation instructions](https://github.com/tonsky/FiraCode)), respectively. Remove or change these options from the YAML header to font output.  
+Defaults for pdf output are controlled through the YAML header. The default main font (`mainfont`) and code font (`monofont`) are set to [CMU Serif Roman](https://www.fontsquirrel.com/fonts/computer-modern){target="_blank"} and [Fira Code Medium](https://github.com/tonsky/FiraCode){target="_blank"}, respectively. Remove or change these options from the YAML header to font output.  
 
 ## Templates
 
@@ -43,7 +43,7 @@ The document is broken into six sections, including:
 
 ### Case Study Analysis
 
-R Markdown template for case study analyses based on William Ellet's case study guide in <a href="https://hbr.org/product/the-case-study-handbook-revised-edition-a-student-s-guide/10208E-KND-ENG" target = "_blank">*The Case Study Handbook, Revised Edition: A Student's Guide* (2018)</a><sup>[1](#myfootnote1)</sup>. This template is intended to be used by students in educational and research environments involving case analyses.  
+R Markdown template for case study analyses based on William Ellet's case study guide in [*The Case Study Handbook, Revised Edition: A Student's Guide* (2018)](https://hbr.org/product/the-case-study-handbook-revised-edition-a-student-s-guide/10208E-KND-ENG){target="_blank"}<sup>[1](#myfootnote1)</sup>. This template is intended to be used by students in educational and research environments involving case analyses.  
 
 This R Markdown file outputs a pdf report with settings adjusted in a setup chunk.  
 
