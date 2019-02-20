@@ -25,7 +25,7 @@ tidy_analysis <- function(...){
   
   
   #Set output format to take knitr options
-  chunk_options <- rmarkdown::knitr_options(opts_chunk = list(tidy.opts=list(width.cutoff=80)))
+  chunk_options <- rmarkdown::knitr_options(opts_chunk = list(tidy.opts=list(width.cutoff=80), background = "#e7e7e7ff"))
   
   format$knitr <- chunk_options
   format$inherits <- 'pdf_document'

@@ -57,7 +57,7 @@ R Markdown template for case study analyses based on William Ellet's case study 
 
 This R Markdown file outputs a pdf report with settings adjusted in the YAML header.  
 
-The document contains 9 essential questions for case study analysis, separated into 6 sections:  
+The document contains 12 essential steps for case study analysis, separated into 6 sections:  
 - Role and Scenario
 - Criteria
 - Analysis

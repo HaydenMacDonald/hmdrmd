@@ -12,7 +12,7 @@ monofont: Fira Code Medium
 ## Packages
 
 ```{r packages, message=FALSE, warning=FALSE}
-library(tidverse)
+library(tidyverse)
 library(readxl)
 ```
 

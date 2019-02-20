@@ -53,15 +53,31 @@ What do we need to do?
 
 # Criteria
 
-## 4. What do we need to know to resolve the major uncertainty?  
+## 4. What information do we know?  
 
-List the things you need to know:
+List the major knowns from the case:
 
 - 
 - 
 - 
 
-## 5. Skim the case again, marking sections where useful information could be found.  
+## 5. What information do we NOT know?
+
+List the major unknowns in the case:
+
+- 
+- 
+- 
+
+## 6. What information do we NEED to know to resolve the **major uncertainty**?
+
+List the things we need to know:
+
+- 
+- 
+- 
+
+## 7. Skim the case again, marking sections where useful information could be found.  
 
 - 
 - 
@@ -72,7 +88,7 @@ List the things you need to know:
 ***
 # Analysis
 
-## 6. Carefully read the case. 
+## 8. Carefully read the case. 
 
 As you read sections in the case, ask, "Is this content relevant to the core scenario?"  
 
@@ -82,11 +98,11 @@ As you read sections in the case, ask, "Is this content relevant to the core sce
 ***
 # Evaluation  
 
-## 7. Compare the **relevant** information from the case against the criteria you have selected.
+## 9. Compare the **relevant** information from the case against the criteria you have selected.
 
 Consider the weights of the criteria. Not all criteria may be equal in your evaluation.  
 
-Use tools, analyses, or frameworks to arrive at a position or conclusion about the major uncertainty.  
+## 10. Use tools, analyses, or frameworks to arrive at a position or conclusion about the **major uncertainty**.  
 
 The best solution to the major uncertainty is the one with the strongest evidence.  
 
@@ -100,7 +116,7 @@ The best solution to the major uncertainty is the one with the strongest evidenc
 # Uncertainties
   
 
-## 8. Consider assumptions and conditions that may have a substantial impact on your position.  
+## 11. Consider assumptions and conditions that may have a substantial impact on your position.  
 
 These assumptions and conditions should not prevent you from taking stance on the case, but should bring attention to other possible outcomes.   
   
@@ -110,7 +126,7 @@ These assumptions and conditions should not prevent you from taking stance on th
 ***
 # Action Plan
 
-## 9. Given your position, what should we do?  
+## 12. Given your position, what should we do?  
 
 First, who is the action plan for? Who is our audience?  
 
