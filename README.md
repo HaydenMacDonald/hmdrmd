@@ -16,7 +16,7 @@ devtools::install_github("HaydenMacDonald/hmdrmd")
 ```
 ## Usage
 
-In order to render pdf documents from R Markdown files, you will require LaTeX. If you have never installed a LaTex distribution, you can do so using [TinyTeX package](https://github.com/yihui/tinytex).  
+In order to render pdf documents from R Markdown files, you will require LaTeX. If you have never installed a LaTex distribution, you can do so using the [TinyTeX package](https://github.com/yihui/tinytex).  
 
 ```{r}
 install.packages("tinytex")
@@ -24,7 +24,9 @@ install.packages("tinytex")
 tinytex::install_tinytex()
 ```
 
-Once `hmdrmd` and `tinytex` are installed, you can access these templates in RStudio through File > New File > R Markdown... > From Template.  
+Once `hmdrmd` and `tinytex` are installed, you can access these templates in RStudio through the following path:  
+
+File > New File > R Markdown... > From Template.  
 
 ![New R Markdown > From Template](scrnshts/templates.png)
 
@@ -53,7 +55,7 @@ The document is broken into six sections, including:
 
 R Markdown template for case study analyses based on William Ellet's case study guide in <a href="https://hbr.org/product/the-case-study-handbook-revised-edition-a-student-s-guide/10208E-KND-ENG" target="_blank">*The Case Study Handbook, Revised Edition: A Student's Guide* (2018)</a><sup>[1](#myfootnote1)</sup>. This template is intended to be used by students in educational and research environments involving case analyses.  
 
-This R Markdown file outputs a pdf report with settings adjusted in a setup chunk.  
+This R Markdown file outputs a pdf report with settings adjusted in the YAML header.  
 
 The document contains 9 essential questions for case study analysis, separated into 6 sections:  
 - Role and Scenario

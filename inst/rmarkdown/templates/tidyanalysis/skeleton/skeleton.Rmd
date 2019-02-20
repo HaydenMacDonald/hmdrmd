@@ -3,7 +3,8 @@ title: "title"
 author: "author"
 date: "`r Sys.Date()`"
 output: 
-  hmdrmd::tidy_analysis
+  hmdrmd::tidy_analysis:
+    highlight: kate
 mainfont: CMU Serif Roman
 monofont: Fira Code Medium
 ---
@@ -11,18 +12,15 @@ monofont: Fira Code Medium
 ## Packages
 
 ```{r packages, message=FALSE, warning=FALSE}
-library(readr)
+library(tidverse)
 library(readxl)
-library(tidyr)
-library(dplyr)
-library(ggplot2)
 ```
 
 ---
 
 ## Import
 
-```{r import, message = FALSE}
+```{r}
 
 ```
 
@@ -30,7 +28,7 @@ library(ggplot2)
 
 ## Wrangle
 
-```{r wrangle}
+```{r}
 
 ```
 
@@ -38,7 +36,7 @@ library(ggplot2)
 
 ## Visualize
 
-```{r visualize}
+```{r}
 
 ```
 
@@ -46,7 +44,7 @@ library(ggplot2)
 
 ## Model
 
-```{r model}
+```{r}
 
 ```
 
@@ -54,7 +52,7 @@ library(ggplot2)
 
 ## Communicate / Export
 
-```{r communicate / export}
+```{r}
 
 ```
 

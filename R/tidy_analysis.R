@@ -21,8 +21,7 @@ tidy_analysis <- function(...){
   # supply files to custom format
   format <- rmarkdown::pdf_document(..., 
                           includes = rmarkdown::includes(in_header = template),
-                          latex_engine = "xelatex",
-                          highlight = "kate")
+                          latex_engine = "xelatex")
   
   
   #Set output format to take knitr options

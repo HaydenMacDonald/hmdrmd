@@ -3,7 +3,8 @@ title: "title"
 author: "author"
 date: "`r Sys.Date()`"
 output: 
-  hmdrmd::case_study
+  hmdrmd::case_study:
+    highlight: kate
 mainfont: CMU Serif Roman
 monofont: Fira Code Medium
 ---
@@ -11,11 +12,8 @@ monofont: Fira Code Medium
 ## Packages
 
 ```{r packages, message=FALSE, warning=FALSE}
-library(readr)
+library(tidyverse)
 library(readxl)
-library(tidyr)
-library(dplyr)
-library(ggplot2)
 ```
 
 ***
