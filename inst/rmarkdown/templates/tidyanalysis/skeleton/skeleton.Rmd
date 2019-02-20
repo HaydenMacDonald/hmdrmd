@@ -4,7 +4,7 @@ author: "author"
 date: "`r Sys.Date()`"
 output: 
   hmdrmd::tidy_analysis:
-    highlight: kate
+    highlight: tango
 mainfont: CMU Serif Roman
 monofont: Fira Code Medium
 ---
