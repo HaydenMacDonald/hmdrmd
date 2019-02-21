@@ -16,7 +16,7 @@ devtools::install_github("HaydenMacDonald/hmdrmd")
 ```
 ## Usage
 
-In order to render pdf documents from R Markdown files, you will require LaTeX. If you have never installed a LaTex distribution, you can do so using the [TinyTeX package](https://github.com/yihui/tinytex).  
+In order to render pdf documents from R Markdown files, you will need LaTeX. If you have never installed a LaTex distribution, you can do so using the [TinyTeX package](https://github.com/yihui/tinytex).  
 
 ```{r}
 install.packages("tinytex")
