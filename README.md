@@ -1,8 +1,8 @@
-# HMDRMD
+# hmdrmd
 
 [![Travis build status](https://travis-ci.org/HaydenMacDonald/hmdrmd.svg?branch=master)](https://travis-ci.org/HaydenMacDonald/hmdrmd)
 
-This is a collection of R Markdown templates created for data analysis project workflows including:
+This is a collection of [R Markdown](https://github.com/rstudio/rmarkdown)</a><sup>[1](#myfootnote1)</sup> templates created for data analysis project workflows including:
 
 - Tidy Analysis
 - Case Study Analysis
@@ -53,7 +53,7 @@ The document is broken into six sections, including:
 
 ### Case Study Analysis
 
-R Markdown template for case study analyses based on William Ellet's case study guide in <a href="https://hbr.org/product/the-case-study-handbook-revised-edition-a-student-s-guide/10208E-KND-ENG" target="_blank">*The Case Study Handbook, Revised Edition: A Student's Guide* (2018)</a><sup>[1](#myfootnote1)</sup>. This template is intended to be used by students in educational and research environments involving case analyses.  
+R Markdown template for case study analyses based on William Ellet's case study guide in <a href="https://hbr.org/product/the-case-study-handbook-revised-edition-a-student-s-guide/10208E-KND-ENG" target="_blank">*The Case Study Handbook, Revised Edition: A Student's Guide* (2018)</a><sup>[2](#myfootnote2)</sup>. This template is intended to be used by students in educational and research environments involving case analyses.  
 
 This R Markdown file outputs a pdf report with settings adjusted in the YAML header.  
 
@@ -77,6 +77,16 @@ Submit issues here on GitHub.
 
 If you are interested in extending the functionality of this package, fork this repository, make your changes and submit them as a pull request.  
 
-## Footnotes
+## Author
 
-<a name="myfootnote1">1</a>: Ellet, W. (2018). *The case study handbook, revised edition: A student's guide*. Boston, Massachussets, Harvard Business Review Press.
+This package was authored by Hayden MacDonald, but borrows heavily from the work by JJ Allaire and Yihui Xie in `rmarkdown`<sup>[1](#myfootnote1)</sup>.
+
+## License
+
+The **rmarkdown** package is licensed under the GPLv3 (<http://www.gnu.org/licenses/gpl.html>).
+
+## References & Footnotes
+
+<a name="myfootnote1">1</a>: Allaire, JJ., Xie, Y., McPherson, J., Luraschi J., Ushey, K., Atkins, A., Wickham, H., Cheng, J., Chang, W., & Iannone, R. (2017). rmarkdown: Dynamic documents for R. R package version 1.11. URL: https://CRAN.R-project.org/package=rmarkdown
+
+<a name="myfootnote2">2</a>: Ellet, W. (2018). *The case study handbook, revised edition: A student's guide*. Boston, Massachussets: Harvard Business Review Press.
