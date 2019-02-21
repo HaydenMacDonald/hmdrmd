@@ -83,7 +83,7 @@ This package was authored by Hayden MacDonald, but borrows heavily from the work
 
 ## License
 
-The **rmarkdown** package is licensed under the GPLv3 (<http://www.gnu.org/licenses/gpl.html>).
+The `hmdrmd` and `rmarkdown` packages are licensed under the GPLv3 (<http://www.gnu.org/licenses/gpl.html>).
 
 ## References & Footnotes
 
