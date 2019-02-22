@@ -48,8 +48,8 @@ The document is broken into six sections, including:
 
 ### Example of Tidy Analysis template
 
-![](scrnshts/tidy1.PNG)
-![](scrnshts/tidy2.PNG)
+![](https://needleinthehay.ca/img/tidy1.PNG)
+![](https://needleinthehay.ca/img/tidy2.PNG)
 
 ### Case Study Analysis
 
@@ -67,9 +67,9 @@ The document contains 12 essential steps for case study analysis, separated into
 
 ### Example of Case Study Analysis template
 
-![](scrnshts/case1.PNG)
-![](scrnshts/case2.PNG)
-![](scrnshts/case3.PNG)
+![](https://needleinthehay.ca/img/case1.PNG)
+![](https://needleinthehay.ca/img/case2.PNG)
+![](https://needleinthehay.ca/img/case3.PNG)
 
 ## Help
 
