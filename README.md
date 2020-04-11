@@ -10,9 +10,9 @@ This is a collection of [R Markdown](https://github.com/rstudio/rmarkdown)</a><s
 ## Installation
 
 ```{r}
-if (!requireNamespace("devtools")) install.packages("devtools")
+if (!requireNamespace("remotes")) install.packages("remotes")
 
-devtools::install_github("HaydenMacDonald/hmdrmd")
+remotes::install_github("HaydenMacDonald/hmdrmd")
 ```
 ## Usage
 
